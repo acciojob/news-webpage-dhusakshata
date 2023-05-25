@@ -1,1 +1,46 @@
-/*  your css code here. If applicable */
+/*your css code here. If required.*/
+body{
+background-color: #f5f5f5;
+}
+header{
+	background-color: #011e29;
+	color:#fff;
+	text-align:center;
+	padding:10px;
+}
+.news{
+	verticle-align:top;
+	background-color:white;
+	display:inline-block;
+	width:20%;
+	padding:20px;
+	border-radius:20px;
+	
+}
+.main{
+	verticle-align:top;
+	background-color:white;
+	display:inline-block;
+	width:40%;
+	padding:20px;
+	border-radius:20px;
+	text-align:center;
+	
+}
+.pictorial{
+	verticle-align:top;
+	background-color:white;
+	display:inline-block;
+	width:20%;
+	padding:20px;
+	border-radius:20px;
+	text-align:center;
+}
+.container{
+	position:relative;
+	text-align:center;
+	margin-top:10px;
+}
+.pictorial-news-section img{
+	margin-top:10px;
+}
