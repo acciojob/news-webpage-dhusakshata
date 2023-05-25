@@ -8,7 +8,7 @@ header{
 	text-align:center;
 	padding:10px;
 }
-.news{
+.latest-news-section{
 	verticle-align:top;
 	background-color:white;
 	display:inline-block;
@@ -27,7 +27,7 @@ header{
 	text-align:center;
 	
 }
-.pictorial{
+.pictorial-news-section{
 	verticle-align:top;
 	background-color:white;
 	display:inline-block;
@@ -41,6 +41,6 @@ header{
 	text-align:center;
 	margin-top:10px;
 }
-.pictorial img{
+.pictorial-news-section img{
 	margin-top:10px;
 }
